@@ -11,7 +11,7 @@
 - The [[probability_density_function.md|pdf]] of a normal distribution is
   impossible to differentiate
 
-The notation for a normal distribution is $X~N(\text{mean}, \text{variance})$
+The notation for a normal distribution is $X\sim N(\text{mean}, \text{variance})$
 
 - ~2/3 of the data lies within 1 standard deviations of the mean
 - ~95% of the data lies within 2 standard deviations of the mean
