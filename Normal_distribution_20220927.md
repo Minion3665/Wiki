@@ -22,8 +22,8 @@ a. $P(2 < X < 11) = 0.5244$
 b. $P(X < 8) = 0.8413$  
 c. $P(X > 8) = 0.1586$  
 
-For $X~N(\mu, \sigma^2)$, the "Z-score" is the number of standard deviations
-away from the mean. It follows a normal distribution $X~N(0, 1)$
+For $X\sim N(\mu, \sigma^2)$, the "Z-score" is the number of standard deviations
+away from the mean. It follows a normal distribution $X\sim N(0, 1)$
 
 a. 0.0228
 b. 0.0851
