@@ -27,11 +27,26 @@
   - You're not super cheap
   - You're just mediocrity
 
-We can also apply this model narrowly or broadly
+We can also apply this model narrowly or broadly, making a matrix
 
-|                 | Broad | Narrow |
-| --------------- | ----- | ------ |
-| Costs           |       |        |
-| Differentiation |       |        |
+|                 | Broad                   | Narrow                |
+| --------------- | ----------------------- | --------------------- |
+| Costs           | Overall cost            | Cost focus            |
+| Differentiation | Overall differentiation | Differentiation focus |
 
-However this is more complex
+- Overall cost means becoming the lowest cost provider
+- Overall differentiation means providing something unique, such as a good USP,
+  a wider distribution or a better quality
+- Cost focus is reducing cost for a niche market segment, for example Aldi
+  focuses on reducing costs for very popular supermarket items, or Rolls Royce
+  reducing costs... for those who are buying expensive sports cars
+- Differentiation focus is differentiation in a niche market segment. An example
+  is Riverford vegetable boxes, which deliver fresh fruit and vegetables to
+  customers for premium prices. They differentiate themselves by having
+  everything organically grown in the UK, although they are already in a very
+  niche market
+
+Putting it all together, here's Porter's generic strategy model with the middle
+marked on
+
+![Porter's generic strategy model](./Porter's_generic_strategy_model.png)
