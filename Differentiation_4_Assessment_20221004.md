@@ -71,3 +71,19 @@ $\frac{dy}{dx} = (9x^2 - 10)\cos3x$
 $\frac{d^2y}{dx^2} = 18x\cos3x - 27x^2\sin3x +30\sin3x$  
 A point of inflection is when $\frac{d^2y}{dx^2} = 0$  
 
+## 7
+
+Volume increases at a constant rate, so after $t + k$ time the volume will be
+$t(\frac{4}{3}\pi r^3)$
+
+$v = t(\frac{4}{3}\pi r^3)$
+
+$\frac{v}{t} = \frac{4}{3}\pi r^3$
+
+$\frac{3v}{4t} = \pi r^3$
+
+$\frac{3v}{4t\pi} = r^3$
+
+$r = (\frac{3v}{4t\pi})^{\frac{1}{3}}$
+
+$\frac{dr}{dt} = $
