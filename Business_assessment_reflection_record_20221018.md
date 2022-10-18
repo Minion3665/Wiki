@@ -8,3 +8,5 @@
   long/short-term objectives etc.
 - I need to include more application. There is shockingly little in some of my
   answers (including a 4-marker!) which will drop me marks during an exam
+- Time-management was an issue. Doing practice questions before the exam may
+  better help me stay on track
