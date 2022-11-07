@@ -11,3 +11,4 @@ Each log entry should contain the following information:
 | Date logged | Topic or Task | Reflection or Feedback                                            | Target Set                                                                  | Date target met |
 | ----------- | ------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------- |
 | 2022-09-12  | SQL           | Although I know some SQL, I struggled with multi-table operations | By next lesson, complete 3 exampro questions on more complex SQL statements |                 |
+| 2022-11-07  | SQL           | I need more reviewing old topics so as not to forget              | Create quizlets for revision of old topics                                  |                 |
