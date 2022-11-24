@@ -135,7 +135,7 @@ well with this goal.
 
 <!-- spell-checker:words Taskwarrior's -->
 
-1. My main goal is to write a task list with both a command-line interface and
+1. The software will be a task list with both a command-line interface and
    text-based interface
    1. It needs to store basic information about tasks[^1] [^2] [^3]
       1. It should use a SQL database to store task information
@@ -159,20 +159,17 @@ well with this goal.
    4. It should allow filtering based on completion status
    5. It should allow filtering based on parent task
 4. It should be open-source, accepting helpful contributions throughout[^1] [^3]
-5. I must keep it intuitive: The TUI should be easy for new users to pick up[^2]
+5. It must be intuitive: The TUI should be easy for new users to pick up[^2]
    1. The TUI should have hints (e.g. "Press `<C-h>` for help" at the bottom of
       the screen)
-6. I must keep it documented. The CLI and TUI should both have documentation
+   2. It must follow common practices for options (e.g. using -v for verbosity 
+      and -h for help)
+6. It must be well-documented. The CLI and TUI should both have documentation
    teaching you about how to use them[^1] [^2]
    1. There must be a detailed manpage explaining all of the options
    2. There must be a useful (but more brief) help command to quickly find the
       info you need
    3. There must be a help page inside of the TUI
-7. I must keep it simple. I should avoid adding features which do not benefit
-   any of my 3 user personas (like taskwarrior's calculator). If features are
-   strongly requested which would bloat out the app for some users and there is
-   time, I should develop a plugin system to allow users to have modularity in the
-   features they have installed[^1] [^3]
 
 [^1]: Feature for **SpyHoodle**
 [^2]: Feature for **PineappleFan**
