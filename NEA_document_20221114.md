@@ -135,30 +135,44 @@ well with this goal.
 
 <!-- spell-checker:words Taskwarrior's -->
 
-1. Write a task list with both a command-line interface and text-based interface
-   1. Store basic information about tasks[^1] [^2] [^3]
-      1. Use a SQL database to store task information
-      2. Store the database on a users' computer rather than on a cloud-based
-         service[^1]
-   2. Allow retrieval of tasks[^1] [^2] [^3]
-   3. Store task progress and completion[^1] [^2] [^3]
-   4. Allow retrieval of task progress and completion[^1] [^2] [^3]
-   5. Allow cleanup of old tasks[^1] [^2] [^3]
-2. Allow subtasks for better organization of tasks, as well as task
+1. My main goal is to write a task list with both a command-line interface and
+   text-based interface
+   1. It needs to store basic information about tasks[^1] [^2] [^3]
+      1. It should use a SQL database to store task information
+      2. It should store the database on a users' computer rather than on a
+         cloud-based service[^1]
+   2. It should allow retrieval of tasks[^1] [^2] [^3]
+   3. It should store task progress and completion[^1] [^2] [^3]
+   4. It should allow retrieval of task progress and completion[^1] [^2] [^3]
+   5. It should allow cleanup of old tasks[^1] [^2] [^3]
+      1. It should have a way to automatically hide old tasks, either by
+         archiving or deletion
+      2. It should have a way to bulk-act on tasks that match certain filters
+         (i.e. to archive or delete them)
+2. It should allow subtasks for better organization of tasks, as well as task
    decomposition[^1] [^2] [^3]
-3. Allow sorting and filtering tasks to quickly manage a long list[^1] [^2] [^3]
-   1. Allow filtering based on due date
-   2. Allow filtering based on title
-   3. Allow filtering based on description
-   4. Allow filtering based on completion status
-   5. Allow filtering based on parent task
-4. Be open-source, accepting helpful contributions throughout[^1] [^3]
-5. Keep it intuitive. The TUI should be easy for new users to pick up[^2]
-6. Keep it documented. The CLI and TUI should both have documentation teaching
-   you about how to use them[^1] [^2]
-7. Keep it simple. Do not add bloat features (like taskwarrior's calculator). If
-   there is time for bloat features, instead develop a plugin system to allow
-   users to add their own bloat features[^1]
+3. It should allow sorting and filtering tasks to quickly manage a long list[^1]
+   [^2] [^3]
+   1. It should allow filtering based on due date
+   2. It should allow filtering based on title
+   3. It should allow filtering based on description
+   4. It should allow filtering based on completion status
+   5. It should allow filtering based on parent task
+4. It should be open-source, accepting helpful contributions throughout[^1] [^3]
+5. I must keep it intuitive: The TUI should be easy for new users to pick up[^2]
+   1. The TUI should have hints (e.g. "Press `<C-h>` for help" at the bottom of
+      the screen)
+6. I must keep it documented. The CLI and TUI should both have documentation
+   teaching you about how to use them[^1] [^2]
+   1. There must be a detailed manpage explaining all of the options
+   2. There must be a useful (but more brief) help command to quickly find the
+      info you need
+   3. There must be a help page inside of the TUI
+7. I must keep it simple. I should avoid adding features which do not benefit
+   any of my 3 user personas (like taskwarrior's calculator). If features are
+   strongly requested which would bloat out the app for some users and there is
+   time, I should develop a plugin system to allow users to have modularity in the
+   features they have installed[^1] [^3]
 
 [^1]: Feature for **SpyHoodle**
 [^2]: Feature for **PineappleFan**
