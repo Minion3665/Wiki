@@ -86,4 +86,4 @@ $\frac{3v}{4t\pi} = r^3$
 
 $r = (\frac{3v}{4t\pi})^{\frac{1}{3}}$
 
-$\frac{dr}{dt} = $
+$\frac{dr}{dt}$

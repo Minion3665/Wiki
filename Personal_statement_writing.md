@@ -98,11 +98,6 @@ timetable into Google calendar, and I'm currently working on a task list program
 to better track and prioritize my responsibilities, including homework and
 revision.
 
-I've been a newspaper delivery girl since the beginning of Year 10, both on
-weekdays and weekends, and used the money that I earned to finance hardware
-purchases and save for the future. I have learned how to be reliable and
-punctual in this role by arriving on time every day despite the 7 am starts.
-
 In the summer of 2022, I got an internship with a software company called
 Collabora. Over my holidays I worked remotely with a team of people helping to
 create an open-source online office suite. As well as being an exciting
@@ -118,16 +113,19 @@ experience for students in RoboCon it's essential that we can work together as a
 society and keep to deadlines. Similarly, organization and inter-team
 communication are crucial for succeeding at Student Robotics, as if you cannot
 work with people who are building different parts of the robot it is likely not
-to work properly. Finally, the Robotics society also needs to have positive
+to work properly. Lastly, the Robotics society also needs to have positive
 interactions with companies in order to get sponsored by them.
 
-Overall, both RoboCon and Student Robotics were a massive success, with almost 10
-happy teams of students after RoboCon and both a "Team Image" award and 1st
-place prizes at Student Robotics. We also had good sponsor communications, with
-some of our sponsoring companies sending people to RoboCon and later giving us
-feedback that they had really enjoyed it. This year, I've become the leader of
+Overall, both RoboCon and Student Robotics were a massive success, with 11 happy
+teams of students after RoboCon and both a "Team Image" award and 1st place
+prizes at Student Robotics. This year, I've become the leader of
 the Robotics Society, allowing me to help other Hills students enjoy Robotics
 and hopefully also find passions in software and engineering.
+
+I've also been a newspaper delivery girl since the beginning of Year 10, both on
+weekdays and weekends, and used the money that I earned to finance hardware
+purchases and save for the future. I have learned how to be reliable and
+punctual in this role by arriving on time every day despite the 7 am starts.
 
 In conclusion, I am fascinated by computers and technology, and work hard at
 them both in academic study and as a hobby. I look forward to continuing this at

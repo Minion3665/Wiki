@@ -101,7 +101,21 @@ $H_0: p=0.3$
 $H_1: p\ne 0.3$  
 
 Assume $H_0$ is true...  
-$X\sim B(15, 0.3)$
+$X\sim B(15, 0.3)$  
+
+Left critical value...  
+$P(X \le 3) = 0.2969$  
+$P(X \le 2) = 0.03527$  
+Left critical value = $2$
+
+Right critical value...  
+$P(X \ge 8 = 0.05)$
+Right critical value = $8$
+
+Critical range = $[0, 2] \cup [8, 15]$  
+Acceptance range = $[3, 7]$
+
+Real significance level: $0.03527 + 0.05 = 0.08527 = 8.527\%$
 
 ## Q10
 
@@ -111,3 +125,4 @@ significance level
 ## Q11
 
 1%
+
