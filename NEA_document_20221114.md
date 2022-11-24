@@ -136,38 +136,33 @@ well with this goal.
 <!-- spell-checker:words Taskwarrior's -->
 
 1. Write a task list with both a command-line interface and text-based interface
-   1. Store basic information about tasks (Feature for **PineappleFan**,
-      **Minion3665** and **SpyHoodle**)
+   1. Store basic information about tasks[^1] [^2] [^3]
       1. Use a SQL database to store task information
       2. Store the database on a users' computer rather than on a cloud-based
-         service (Feature for **SpyHoodle**)
-   2. Allow retrieval of tasks (Feature for **PineappleFan**, **Minion3665** and
-      **SpyHoodle**)
-   3. Store task progress and completion (Feature for **PineappleFan**,
-      **Minion3665** and **SpyHoodle**)
-   4. Allow retrieval of task progress and completion (Feature for
-      **PineappleFan**, **Minion3665** and **SpyHoodle**)
-   5. Allow cleanup of old tasks (Feature for **PineappleFan**, **Minion3665**
-      and **SpyHoodle**)
+         service[^1]
+   2. Allow retrieval of tasks[^1] [^2] [^3]
+   3. Store task progress and completion[^1] [^2] [^3]
+   4. Allow retrieval of task progress and completion[^1] [^2] [^3]
+   5. Allow cleanup of old tasks[^1] [^2] [^3]
 2. Allow subtasks for better organization of tasks, as well as task
-   decomposition (Feature for **PineappleFan**, **Minion3665** and
-   **SpyHoodle**)
-3. Allow sorting and filtering tasks to quickly manage a long list (Feature for
-   **PineappleFan**, **Minion3665** and **SpyHoodle**)
+   decomposition[^1] [^2] [^3]
+3. Allow sorting and filtering tasks to quickly manage a long list[^1] [^2] [^3]
    1. Allow filtering based on due date
    2. Allow filtering based on title
    3. Allow filtering based on description
    4. Allow filtering based on completion status
    5. Allow filtering based on parent task
-4. Be open-source, accepting helpful contributions throughout (Feature for
-   **Minion3665** and **SpyHoodle**)
-5. Keep it intuitive. The TUI should be easy for new users to pick up (Feature
-   for **PineappleFan**)
+4. Be open-source, accepting helpful contributions throughout[^1] [^3]
+5. Keep it intuitive. The TUI should be easy for new users to pick up[^2]
 6. Keep it documented. The CLI and TUI should both have documentation teaching
-   you about how to use them (Feature for **PineappleFan** and **SpyHoodle**)
+   you about how to use them[^1] [^2]
 7. Keep it simple. Do not add bloat features (like taskwarrior's calculator). If
    there is time for bloat features, instead develop a plugin system to allow
-   users to add their own bloat features (Feature for **SpyHoodle**)
+   users to add their own bloat features[^1]
+
+[^1]: Feature for **SpyHoodle**
+[^2]: Feature for **PineappleFan**
+[^3]: Feature for **Minion3665**
 
 ## Attribution
 
