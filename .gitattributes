@@ -1,4 +1,5 @@
 secretfile filter=git-crypt diff=git-crypt
 *.private.* filter=git-crypt diff=git-crypt
 **/*.private/**/* filter=git-crypt diff=git-crypt
+.trash/**/* filter=git-crypt diff=git-crypt
 journal/**/* filter=git-crypt diff=git-crypt
