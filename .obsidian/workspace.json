@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "02d8775e5e2215af",
+        "id": "62cc320edd5404ab",
         "type": "tabs",
         "children": [
           {
-            "id": "5a811658e2853e6b",
+            "id": "5a4c3896d4d0c7cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-02-28 11.37.59.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0f321fb069ee7001",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-02-28 15.01.46.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drawing 2023-02-28 15.01.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drawing 2023-02-28 15.01.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +134,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Drawing 2023-02-28 15.01.46.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7da224c52e580ddb",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 369.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -136,13 +163,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a811658e2853e6b",
+  "active": "0f321fb069ee7001",
   "lastOpenFiles": [
-    "Recording 20230207152653.webm",
+    "Factors contributing to globalization.md",
+    "Drawing 2023-02-28 15.01.46.excalidraw.md",
+    "Drawing 2023-02-28 11.37.59.excalidraw.md",
+    "Drawing 2023-02-28 09.11.51.excalidraw.md",
+    "Untitled 2.md",
+    "Deploying with nix.md",
+    "CS_SESSION",
+    "2023-02-21.private.md",
+    "Excalidraw/Drawing 2023-02-27 15.57.38.excalidraw.md",
+    "Untitled 2.private.md",
+    "Excalidraw",
+    "Untitled 1.md",
+    "Untitled.md",
     "Ansoff's_matrix_20221004.md",
+    "collabora/ghnull-jsdialogs-ignore-dockingwindow commands.md",
+    "collabora/gh5571-Writer->Format->Sections->Options is broken.md",
+    "collabora/Packaging for NixOS.md",
+    "Recording 20230207152653.webm",
     "Ansoffs_matrix.png"
   ]
 }
